@@ -1,4 +1,8 @@
 # จำนวนจริง (Real Number)
+### สิ่งที่ควรเรียนมาก่อน (Prerequisite)
+- [ตรรกศาสตร์ (Logic)](Logic.md)  
+- [เซต (Set)](Set.md)
+
 # แผนผังแสดงความสัมพันธ์ของจำนวนชนิดต่างๆ
 <img alt="realnumberchart" src="asset\realnumberchart.jpg">
 
@@ -94,6 +98,7 @@ $y$ เป็นจำนวนอตรรกยะ สามารถเขี
 แต่ก็มีสมบัติที่ควรจำเกี่ยวกับเครื่องหมาย $\sqrt{\text{ }\text{ }\text{ }}$ หรือ Square Root ได้แก่
 
 - ### $\sqrt{a} \cdot \sqrt{b} = \sqrt{ab}$ 
+- ### $\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}$ 
 - ### $\sqrt{a} \in \mathbb{R} \iff a \geq 0$ 
 - ### $\sqrt{a} \geq 0 \iff a \geq 0$ 
 
