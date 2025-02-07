@@ -1,6 +1,6 @@
 # บทนำ (Introduction)
 # เส้นทางในสอวน. คอมเป็นยังไง ?
-<img alt="structure" src="asset\structure.jpg">
+<img alt="structure" src="asset\structure.png">
 
 ## โครงสร้างค่าย
 
