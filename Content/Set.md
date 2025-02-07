@@ -173,7 +173,7 @@ $\lbrace 1,2 \rbrace$ เป็นสมาชิกของ $\lbrace 1, 2, 3\r
 - $A' = \mathbb{U} - A$
 - $A - B = A\cap B'$
 - $\varnothing \subset A$
-- $\varnothing \isin P(A)$
+- $\varnothing \in P(A)$
 
 ### สมบัตการแจกแจง
 
