@@ -228,9 +228,9 @@ $\lbrace 1,2 \rbrace$ เป็นสมาชิกของ $\lbrace 1, 2, 3\r
 
 จะมีค่าเท่ากับ $n(A\cap B) - n(A\cap B\cap C)$ ซึ่งนำมารวมกันทั้งหมดแล้วจะได้
 
-$ n(A\cap B) - n(A\cap B\cap C) + n(B\cap C) - n(A\cap B\cap C) + n(B\cap C) - n(A\cap B\cap C) $
+$n(A\cap B) - n(A\cap B\cap C) + n(B\cap C) - n(A\cap B\cap C) + n(B\cap C) - n(A\cap B\cap C)$
 
-$ = n(A\cap B) + n(B\cap C) + n(B\cap C) - 3n(A\cap B\cap C) = 120$
+$= n(A\cap B) + n(B\cap C) + n(B\cap C) - 3n(A\cap B\cap C) = 120$
 
 จากนั้นเรามีอีกข้อมูลคือ มีคนชอบกีฬาฟุตบอล รวมกับคนชอบกีฬาบาสเกตบอล รวมกับคนที่ชอบกีฬาว่ายน้ำ จำนวน 450 คน
 
